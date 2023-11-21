@@ -2,7 +2,7 @@
 
 * peas 
 * water
-* onions 
+* spring onions 
 * potato
 
 # Instructions 
