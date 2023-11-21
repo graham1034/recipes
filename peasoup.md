@@ -8,4 +8,5 @@
 # Instructions 
 
 * peel potatoes 
+* put peas into a pan 
 
