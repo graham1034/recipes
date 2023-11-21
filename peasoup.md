@@ -2,5 +2,7 @@
 
 * peas 
 * water
+* onions 
+* potato
 
 # Instructions 
